@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🎮 Arthur Lira
 
-<!--
-**arthurlira0/ArthurLira0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Game Developer`**
 
-Here are some ideas to get you started:
+My name is Arthur, I am Brazilian and currently learning how to develop games using the **Godot Engine**.  
+This repository is my space to showcase my progress as a game developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+
+<img 
+    align="left" 
+    alt="Godot" 
+    title="Godot Engine" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📫 Contact
+
+- Email: **arthurlira472@gmail.com**
+
+
+
