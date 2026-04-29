@@ -1,4 +1,4 @@
-# 🎮 Arthur Lira
+## Arthur Lira
 
 **`Game Developer`**
 
